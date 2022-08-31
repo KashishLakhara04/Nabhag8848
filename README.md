@@ -12,14 +12,14 @@
 <a href="https://linkedin.com/in/nabhag-motivaras-460b3b1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabhag-motivaras-460b3b1aa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15820509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15820509" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nabhag8848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nabhag8848" height="30" width="40" /></a>
- <a href="https://devpost.com/nabhagmotivaras" target="blank"><img align="center" src="http://nealrs.github.io/devpost-follow-button/icon/devpost.svg" alt="nabhag-motivaras-460b3b1aa" height="30" width="40" /></a>
+ <a href="https://devpost.com/nabhagmotivaras" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/devpost_logo_icon_169279.png" alt="nabhag-motivaras-460b3b1aa" height="40" width="40" /></a>
 </p>
 <br>
 
 <b>Languages: </b><br><br>
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="50"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 <br>
